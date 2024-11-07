@@ -1,0 +1,11 @@
+# Ignore folder containing private information
+priveInformatie/
+
+# Ignore specific private file
+priveBestand.pb
+
+# Ignore temporary files
+*.meta
+
+# Ignore Photoshop files
+*.psd
